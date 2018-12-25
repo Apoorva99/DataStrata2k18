@@ -1,2 +1,2 @@
 # DataStrata2k18
-A Data analysis of data hossted by Kaggle
+An indepth analysis and insight of survey dataset hosted by Kagge(https://www.kaggle.com/kaggle/kaggle-survey-2017#multipleChoiceResponses.csv). The data comprises of respondents' answers to multiple choice and ranking questions. These are non-randomized and thus a single row does correspond to all of a single user's answers. The sole process of data collection includes responses by 16.7k Data Scientists.
